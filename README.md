@@ -1,8 +1,8 @@
 
-### 🙋‍ I'm a front-end developer 
-### 📍 Currently staying in Seoul, Korea.
-### 💛 Espcially digging in SCSS and Javascript
-### 🌱 I’m currently learning React
+#### 🙋‍ I'm a front-end developer !
+#### 📍 Currently staying in Seoul, Korea.
+#### 💛 Espcially digging in SCSS and Javascript
+#### 🌱 I’m currently learning React
 
 <unordered list>
 Javascript (ES6 +)
