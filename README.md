@@ -4,7 +4,7 @@
 💛 Espcially digging in SCSS and Javascript.  
 🌱 I’m currently learning React ...  
 
-
+📚  
 Javascript (ES6 +)  
 Node JS, PUG  
 HTML5, CSS3, SCSS, JS ...  
