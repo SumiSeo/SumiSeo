@@ -2,7 +2,9 @@
 🙋‍ I'm a front-end developer !  
 📍 Currently staying in Seoul, Korea.  
 💛 Espcially digging in SCSS and Javascript.  
-🌱 I’m currently learning React ...  
+🌱 I’m currently learning React ...    
+
+
 
 📚  
 Javascript (ES6 +)  
