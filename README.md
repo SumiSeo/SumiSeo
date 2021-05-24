@@ -1,13 +1,16 @@
 
-##### 🙋‍ I'm a front-end developer 
-##### 📍 Currently staying in Seoul, Korea.
-##### 💛 Espcially digging in SCSS and Javascript
+### 🙋‍ I'm a front-end developer 
+### 📍 Currently staying in Seoul, Korea.
+### 💛 Espcially digging in SCSS and Javascript
+### 🌱 I’m currently learning React
 
+<unordered list>
+Javascript (ES6 +)
+Node JS, PUG
+HTML5, CSS3, SCSS, JS ...
+DB: MongoDB, 
 
-##### Javascript (ES6 +)
-##### Node JS, PUG
-##### HTML5, CSS3, SCSS, JS ...
-##### DB: MongoDB, 
+📫 How to reach me: qkobr94@gmail.com
 
 <!--
 **SumiSeo/SumiSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
