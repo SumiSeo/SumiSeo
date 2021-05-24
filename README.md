@@ -10,9 +10,9 @@
   
 📚  
 Javascript (ES6 +)  
-Node JS, PUG  
-HTML5, CSS3, SCSS, JS ...  
-DB: MongoDB,   
+Node JS, EXPRESS
+HTML5, CSS3, SCSS, JS, PUG ...  
+DB: MongoDB
 
 
 📫 How to reach me: qkobr94@gmail.com
