@@ -10,7 +10,7 @@
   
 📚  
 Javascript (ES6 +)  
-Node JS, EXPRESS
+Node JS, EXPRESS  
 HTML5, CSS3, SCSS, JS, PUG ...  
 DB: MongoDB
 
