@@ -4,13 +4,15 @@
 #### 💛 Espcially digging in SCSS and Javascript
 #### 🌱 I’m currently learning React
 
-<unordered list>
+<br>
 Javascript (ES6 +)
 Node JS, PUG
 HTML5, CSS3, SCSS, JS ...
 DB: MongoDB, 
 
-📫 How to reach me: qkobr94@gmail.com
+<br>
+<br>
+###### 📫 How to reach me: qkobr94@gmail.com
 
 <!--
 **SumiSeo/SumiSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
