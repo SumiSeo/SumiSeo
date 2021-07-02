@@ -1,8 +1,8 @@
 
 🙋‍ I'm a front-end developer.  
 📍 Currently staying in Seoul, Korea.  
-💛 Espcially digging in SCSS and Javascript.  
-🌱 I’m currently learning React ...      
+💛 Espcially digging in SCSS, Javascript and React.  
+🌱 I’m currently learning React and Typescript...      
 
 
  
@@ -12,7 +12,7 @@
 Javascript (ES6 +)  
 Node JS, EXPRESS  
 HTML5, CSS3, SCSS, JS, PUG ...  
-DB: MongoDB
+DB: SQL
 
 
 📫 How to reach me: qkobr94@gmail.com
