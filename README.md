@@ -11,6 +11,9 @@
 * DB: SQL
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=cobalt)
+
+
 📫 How to reach me: qkobr94@gmail.com
 
 <!--
