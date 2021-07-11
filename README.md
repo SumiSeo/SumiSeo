@@ -6,9 +6,6 @@
 
 
  
-  
-  
-📚  
 * Javascript (ES6 +), React, HTML5, SCSS  
 * Python, PHP, Node JS, EXPRESS  
 * DB: SQL
