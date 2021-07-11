@@ -1,5 +1,5 @@
 
-🙋‍ I'm a front-end developer.  
+🙋‍ I'm a full-stack developer.  
 📍 Currently staying in Seoul, Korea.  
 💛 Espcially digging in SCSS, Javascript and React.  
 🌱 I’m currently learning React and Typescript...      
@@ -9,10 +9,9 @@
   
   
 📚  
-Javascript (ES6 +)  
-Node JS, EXPRESS  
-HTML5, CSS3, SCSS, JS, PUG ...  
-DB: SQL
+* Javascript (ES6 +), React, HTML5, SCSS  
+* Python, PHP, Node JS, EXPRESS  
+* DB: SQL
 
 
 📫 How to reach me: qkobr94@gmail.com
