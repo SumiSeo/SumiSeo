@@ -8,7 +8,7 @@
  
 * Javascript (ES6 +), React, HTML5, SCSS  
 * Python, PHP, Node JS, EXPRESS  
-* DB: SQL
+* DB: mySQL
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=cobalt)
