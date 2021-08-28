@@ -7,7 +7,7 @@
 
  
 * Javascript (ES6 +), React, HTML5, SCSS  
-* Python, PHP, Node JS, EXPRESS  
+* Python, PHP
 * DB: mySQL
 
 
