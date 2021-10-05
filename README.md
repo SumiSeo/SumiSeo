@@ -6,9 +6,9 @@
 
 
  
-* Javascript (ES6 +), React, HTML5, SCSS  
-* Python, PHP
-* DB: mySQL
+* Client: Javascript (ES6 +), React, GraphQL-Apollo, HTML5, SCSS
+* Server: Node JS, Python, PHP
+* DB: mySQL, GraphQL
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=cobalt)
