@@ -8,7 +8,7 @@
  
 * Client: Javascript (ES6 +), React, GraphQL-Apollo, HTML5, SCSS
 * Server: Node JS, GraphQL, Python, PHP
-* DB: mySQL
+* DB: mySQL, mongoDB
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=cobalt)
