@@ -1,6 +1,6 @@
 
 🙋‍ I'm a full-stack developer.  
-📍 Currently staying in Seoul, Korea.  
+📍 Located in Seoul, Korea.  
 💛 Espcially digging in SCSS, Javascript and React.  
 🌱 I’m currently learning Typescript...      
 
