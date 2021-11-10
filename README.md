@@ -7,7 +7,7 @@
 
  
 * Client: Javascript (ES6 +), React, GraphQL-Apollo, HTML5, SCSS
-* Server: Node JS, GraphQL, Python, PHP
+* Server: Node JS, GraphQL, Python, PHP, Hasura
 * DB: mySQL, mongoDB
 
 
