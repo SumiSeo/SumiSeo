@@ -2,6 +2,7 @@
 🙋‍ I'm a full-stack developer.  
 📍 Located in Seoul, Korea.  
 💛 Espcially digging in SCSS, React, Typescript and GraphQL
+\
 🌱 I’m currently learning Data analytics...      
 
 
