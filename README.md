@@ -1,12 +1,12 @@
 
 🙋‍ I'm a full-stack developer.  
 📍 Located in Seoul, Korea.  
-💛 Espcially digging in SCSS, Javascript and React.  
-🌱 I’m currently learning Typescript...      
+💛 Espcially digging in SCSS, React, Typescript and GraphQL
+🌱 I’m currently learning Data analytics...      
 
 
  
-* Client: Javascript (ES6 +), React, GraphQL-Apollo, HTML5, SCSS
+* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS
 * Server: Node JS, GraphQL, Python, PHP, Hasura
 * DB: mySQL, mongoDB
 
