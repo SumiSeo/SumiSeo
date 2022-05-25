@@ -3,7 +3,7 @@
 📍 Located in Seoul, Korea.  
 💛 Espcially digging in React, Typescript and GraphQL, SCSS.
 \
-🌱 I’m currently learning Data analytics...      
+🌱 I’m currently learning Flutter...      
 
 
  
