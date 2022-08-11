@@ -1,9 +1,9 @@
 
 🙋‍ I'm a full-stack developer.  
-📍 Located in Seoul, Korea.  
+📍 Located in Paris, France.  
 💛 Espcially digging in React, Typescript and GraphQL, SCSS.
 \
-🌱 I’m currently learning Flutter...      
+🌱 I’m currently learning Ethereum...      
 
 
  
