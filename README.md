@@ -3,11 +3,11 @@
 📍 Located in Paris, France.  
 💛 Espcially digging in React, Typescript and GraphQL, SCSS.
 \
-🌱 I’m currently learning Ethereum...      
+🌱 I’m currently learning Flutter...      
 
 
  
-* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS
+* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS, Flutter
 * Server: Node JS, GraphQL, Python, PHP, Hasura
 * DB: mySQL, mongoDB
 
