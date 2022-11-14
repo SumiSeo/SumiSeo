@@ -1,5 +1,5 @@
 
-🙋‍ I'm a full-stack developer.  
+🙋‍ I'm a software enginner
 📍 Located in Paris, France.  
 💛 Espcially digging in React, Typescript and GraphQL, SCSS.
 \
