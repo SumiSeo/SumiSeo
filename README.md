@@ -1,7 +1,7 @@
 
 🙋‍ I'm a software enginner  
 📍 Located in Paris, France.  
-💛 Espcially digging in React, Typescript and GraphQL, SCSS.
+💛 Espcially digging in React, Typescript GraphQL and SCSS.
 \
 🌱 I’m currently learning Flutter...      
 
