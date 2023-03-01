@@ -1,7 +1,7 @@
 
 🙋‍ I'm a software engineer.  
 📍 Located in Paris, France.  
-💛 Espcially digging in React, Typescript GraphQL and SCSS.
+💛 Espcially digging in React, Typescript, GraphQL and Python.
 \
 🌱 I’m currently learning Flutter...      
 
