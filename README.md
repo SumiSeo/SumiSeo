@@ -1,14 +1,14 @@
 
 🙋‍ I'm a software engineer.  
 📍 Located in Paris, France.  
-💛 Espcially digging in React, Typescript, GraphQL and Python.
+💛 Espcially digging in React, Typescript, GraphQL, Python and C#.
 \
-🌱 I’m currently learning Flutter...      
+🌱 I’m currently learning C# and Blazor...      
 
 
  
-* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS, Flutter
-* Server: Node JS, GraphQL, Python, PHP, Hasura
+* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS, Flutter, Blazor
+* Server: C#, Python, Node JS, GraphQL, PHP, Hasura
 * DB: mySQL
 
 
