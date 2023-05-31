@@ -3,12 +3,12 @@
 📍 Located in Paris, France.  
 💛 Espcially digging in React, Typescript, GraphQL, Python and C#.
 \
-🌱 I’m currently learning C# and Blazor...      
+🌱 I’m currently learning C.       
 
 
  
 * Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS, Flutter, Blazor
-* Server: C#, Python, Node JS, GraphQL, PHP, Hasura
+* Server: C, C#, Python, GraphQL, PHP, Hasura
 * DB: mySQL
 
 
