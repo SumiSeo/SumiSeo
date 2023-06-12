@@ -1,17 +1,10 @@
 
-🙋‍ I'm a software engineer.  
+🙋 I'm a software engineer.  
 📍 Located in Paris, France.  
-💛 Espcially digging in React, Typescript, GraphQL and Python.
-\
-🌱 I’m currently learning C.       
-
-
+    
  
-* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS, Flutter, Blazor
-* Server: C, C#, Python, GraphQL, PHP, Hasura
-* DB: mySQL
-
-
+* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS
+* Server: C, Python, PHP
 
 
 📫 How to reach me: equepem@gmail.com
