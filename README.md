@@ -3,7 +3,7 @@
 📍 Located in Paris, France.  
     
  
-* Client: Javascript (ES6 +), Typescript, React, GraphQL-Apollo, HTML5, SCSS
+* Client: React, TypeScript, GraphQL-Apollo, HTML5, SCSS
 * Server: C, Python, PHP
 
 
