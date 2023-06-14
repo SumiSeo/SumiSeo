@@ -1,5 +1,5 @@
 
-🙋 I'm a software engineer.  
+🙋 YO ! I'm a software engineer.  
 📍 Located in Paris, France.  
     
  
