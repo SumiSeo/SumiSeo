@@ -1,5 +1,5 @@
 
-📍 Software engineer, Located in Paris, France.  
+📍 Located in Paris, France.  
     
  
 * Client: React, TypeScript, GraphQL-Apollo, HTML5, SCSS
