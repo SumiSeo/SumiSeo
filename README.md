@@ -1,6 +1,5 @@
 
-🙋 YO ! I'm a software engineer.  
-📍 Located in Paris, France.  
+📍 Software engineer, Located in Paris, France.  
     
  
 * Client: React, TypeScript, GraphQL-Apollo, HTML5, SCSS
