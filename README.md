@@ -2,8 +2,8 @@
 📍 Located in Paris, France.  
     
  
-* Client: React, TypeScript, GraphQL-Apollo, HTML5, SCSS
-* Server: C, Python, PHP
+* Client: React, TypeScript, GraphQL-Apollo, React-Native, Flutter, HTML5, SCSS
+* Server: C, C#, Python, PHP
 
 
 📫 How to reach me: equepem@gmail.com
