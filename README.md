@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Sumi)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Sumi)
 
 📍 Located in Paris, France.  
     
