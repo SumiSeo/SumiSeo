@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=sumiseo)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Sumi)
 
 📍 Located in Paris, France.  
     
