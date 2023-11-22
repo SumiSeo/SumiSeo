@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=sumiseo%20render)
 
 📍 Located in Paris, France.  
     
@@ -6,6 +6,8 @@
 * Client: React, TypeScript, GraphQL-Apollo, React-Native, Flutter, HTML5, SCSS
 * Server: C, C#, Python, PHP
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumiSeo)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me: equepem@gmail.com
 
