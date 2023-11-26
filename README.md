@@ -7,7 +7,7 @@
 👾 Client: React, TypeScript, GraphQL-Apollo, React-Native, Flutter, HTML5, SCSS  
 🕹 Server: C, C#, Python, PHP
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumiSeo)
 
 </br>
