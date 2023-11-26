@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=I-am-you-and-you-?)
 
 📍 Located in Paris, France.  
-🇰🇷 Originally from Seoul, Korea.
+🇰🇷 Originally from Seoul, Korea.  
 👾 Client: React, TypeScript, GraphQL-Apollo, React-Native, Flutter, HTML5, SCSS  
 🕹 Server: C, C#, Python, PHP
 
