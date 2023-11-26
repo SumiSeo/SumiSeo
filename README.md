@@ -2,6 +2,8 @@
 
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
+</br>
+</br>
 👾 Client: React, TypeScript, GraphQL-Apollo, React-Native, Flutter, HTML5, SCSS  
 🕹 Server: C, C#, Python, PHP
 
