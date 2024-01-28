@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=I-am-you-and-you-?)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=FullStackDeveloper)
 
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
