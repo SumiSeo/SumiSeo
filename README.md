@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=FullStackDeveloper)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=CreativeDeveloper)
 
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
