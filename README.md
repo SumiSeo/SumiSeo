@@ -2,7 +2,7 @@
 
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
-About me 🧠 https://sumiseo.com/
+🧠 About me https://sumiseo.com/
 </br>
 </br>
 👾 Client: React, TypeScript, GraphQL-Apollo, React-Native, Flutter, HTML5, SCSS  
