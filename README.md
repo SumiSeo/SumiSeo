@@ -3,7 +3,6 @@
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
 🧠 About me https://sumiseo.com/
-📝 I am also a writer in the community of AWS tip : https://awstip.com/
 
 </br>
 </br>
