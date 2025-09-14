@@ -4,8 +4,8 @@
 🇰🇷 Originally from Seoul, Korea.  
 </br>
 </br>
-👾 Client: React, TypeScript, GraphQL-Apollo, React-Native, HTML5, SCSS  
-🕹 Server: C, Python, C++
+👾 Client: React, TypeScript, React-Native, HTML5, SCSS  
+🕹 Server: NodeJSm Python, GraphQL-Apollo, C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumiSeo&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumiSeo&theme=dracula&layout=compact)
