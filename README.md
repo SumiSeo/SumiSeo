@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=CreativeSoftwareEngineer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Creative+Software+Engineer)
 
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
