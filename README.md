@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=+Software+Engineer+)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
@@ -9,7 +9,8 @@
 
 </br>
 </br>
-                 
+
+
 
 
 📫 How to reach me: equepem@gmail.com
