@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=sumiseo.com&fontSize=90)
 
-📍 Located in Paris, France.  
-🇰🇷 Originally from Seoul, Korea.  
-</br>
-
 ## 👾 Client 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
