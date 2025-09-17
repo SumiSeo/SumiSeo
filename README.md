@@ -3,14 +3,11 @@
 📍 Located in Paris, France.  
 🇰🇷 Originally from Seoul, Korea.  
 </br>
-</br>
 👾 Client: TypeScript, React, React-Native, HTML5, SCSS  
 🕹 Server: NodeJS, NextJS, Python, GraphQL-Apollo, C++
 
 </br>
-</br>
-
-<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
+<h1> 🛠 Tech Stack 🛠 </h1>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
