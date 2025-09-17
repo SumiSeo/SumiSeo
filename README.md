@@ -4,8 +4,8 @@
 🇰🇷 Originally from Seoul, Korea.  
 </br>
 </br>
-👾 Client: React, TypeScript, React-Native, HTML5, SCSS  
-🕹 Server: NodeJSm Python, GraphQL-Apollo, C++
+👾 Client: TypeScript, React, React-Native, HTML5, SCSS  
+🕹 Server: NodeJS, NextJS, Python, GraphQL-Apollo, C++
 
 </br>
 </br>
